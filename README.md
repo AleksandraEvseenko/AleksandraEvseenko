@@ -4,7 +4,7 @@
 
 ### Tools
 ![GitBush](https://img.shields.io/badge/-GitBash-010101?style=for-the-badge&logo=GitBash&logoColor=FEF8D4)
-![SQL](https://img.shields.io/badge/-SQL-010101?style=for-the-badge&logo=SQL&logoColor=7AA6D7)
+![Sql](https://img.shields.io/badge/-Sql-010101?style=for-the-badge&logo=Sql&logoColor=7AA6D7)
 ![Postman](https://img.shields.io/badge/-Postman-010101?style=for-the-badge&logo=Postman&logoColor=EF9F26)
 ![Swagger](https://img.shields.io/badge/-Swagger-010101?style=for-the-badge&logo=Swagger&logoColor=89B524)
 ![SeleniumIDE](https://img.shields.io/badge/-SeleniumIDE-010101?style=for-the-badge&logo=SeleniumIDE&logoColor=082F6D)
