@@ -11,4 +11,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-010101?style=for-the-badge&logo=HTML&logoColor=FFE001)
 ![Jira](https://img.shields.io/badge/-Jira-010101?style=for-the-badge&logo=Jira&logoColor=5173BD)
 ![Trello](https://img.shields.io/badge/-Trello-010101?style=for-the-badge&logo=Trello&logoColor=1D57A9)
-Follow Me
+### Follow Me
+[![Telegram](https://img.shields.io/badge/-Telegram-010101?style=for-the-badge&logo=Telegram&logoColor=27A0D9)](https://t.me/AleksandraE99)
+[![Instagram](https://img.shields.io/badge/-Instagram-010101?style=for-the-badge&logo=Instagram&logoColor=B4068E)](https://www.instagram.com/evseenko._)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-010101?style=for-the-badge&logo=LinkedIn&logoColor=007BB6)](https://www.linkedin.com/in/aleksandra-evseenko-024a07242/)
