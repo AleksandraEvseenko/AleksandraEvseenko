@@ -1,6 +1,6 @@
 [![Header](https://github.com/AleksandraEvseenko/AleksandraEvseenko/blob/main/assets/quote-2022-10-27-612f4eb6fba369eee68654bb40deefc8.jpg)](https://github.com/AleksandraEvseenko)
 
-## Hi! I am a tester with 6 months of experience writing test documentation, bug reporting, retesting, mobile app testing and web testing. Nice to meet you!
+## Hi! I am a tester with 1 year of experience writing test documentation, bug reporting, retesting, mobile app testing and web testing. Nice to meet you!
 
 ### Tools
 ![GitBush](https://img.shields.io/badge/-GitBash-010101?style=for-the-badge&logo=GitBash&logoColor=FEF8D4)
